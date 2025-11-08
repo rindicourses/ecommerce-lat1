@@ -1,1 +1,1 @@
-console.log('cart system');
+function calcPrice(qty, price){ return qty * price - 10; }
