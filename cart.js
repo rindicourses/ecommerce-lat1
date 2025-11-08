@@ -1,1 +1,1 @@
-function calcPrice(qty, price){ return qty * price; }
+console.log('cart v2');
