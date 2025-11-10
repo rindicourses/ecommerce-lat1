@@ -1,1 +1,1 @@
-console.log('profile page');
+console.log('profile is ready');
